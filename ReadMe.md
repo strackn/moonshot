@@ -1,0 +1,1 @@
+Make a machine learning bot to determine whether a picture is of **grumpy cat**.
